@@ -41,7 +41,7 @@ body {
     border-radius: 10px;
 }
 
-.qr-card h3 {
+.qr-card h1 {
     color: var(--Dark-blue);
     font-size: 21px;
     font-weight: 700;
